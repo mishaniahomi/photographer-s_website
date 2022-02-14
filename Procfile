@@ -1,0 +1,1 @@
+web: gunicorn appheroku git:remote -a angelphoto:main.py
